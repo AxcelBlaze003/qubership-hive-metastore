@@ -1,4 +1,4 @@
-## Table of Contents
+## Table of Contents test
 
 * [Overview](#overview)
 * [Architecture](docs/public/architecture.md)
