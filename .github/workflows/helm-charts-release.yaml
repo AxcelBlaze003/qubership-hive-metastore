@@ -80,7 +80,7 @@ jobs:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: "Release-drafter"
-        uses: axcelblaze003/release-drafter@master
+        uses: netcracker/release-drafter@master
         with:
           config-name: release-drafter-config.yml
           publish: true
